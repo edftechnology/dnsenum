@@ -100,7 +100,7 @@ Lembre-se de verificar a documentação oficial ou o `README` do projeto para ob
 
 Para configurar/instalar/usar o `dnsenum` no `Linux Ubuntu`, você pode seguir estes passos:
 
-1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Shift + Alt + T`
+1. Abrir o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Shift + Alt + T`
 
 2. **Execute o comando:** `sudo apt install dnsenum -y`
 
@@ -116,7 +116,11 @@ Para configurar/instalar/usar o `dnsenum` no `Linux Ubuntu`, você pode seguir e
 
 Para instalar o `dnsenum` no `Linux Ubuntu` sem precisar digitar linha por linha, você pode seguir estas etapas:
 
-1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
+1. Abrir o `Terminal Emulator`. Você pode fazer isso pressionando:
+
+    ```bash
+    Ctrl + Alt + T
+    ```
 
 2. Digite o seguinte comando e pressione `Enter`:
 
